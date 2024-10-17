@@ -1,0 +1,32 @@
+div{
+    border: 2px solid black;
+    background-color: aquamarine;
+    display: flex;
+}
+.row{
+
+}
+.col{
+    background-color: red;
+}
+.col-12{
+    height: 80px;
+    background-color: yellow;
+}
+h1{
+    margin-top: 50px;
+}
+#id a{
+    display: flex;
+    margin: 20px;
+    
+    
+    
+}
+#id3 {
+    background-color: indianred;
+    height: 70vh;
+}
+#id3 ul li{
+    margin-top: 10px;
+}
